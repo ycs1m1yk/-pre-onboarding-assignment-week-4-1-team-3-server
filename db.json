@@ -1619,6 +1619,12 @@
       "email": "admin@tt.com",
       "password": "$2a$10$1DT/LIFMVlmG4h9u0SLqGuaDBwkBIIiBvouAJW8lFmMHcfMv6rMLm",
       "id": 104
+    },
+    {
+      "email": "newface@dec.com",
+      "password": "$2a$10$E5JTPTDtuP0Vwz3Rb0COIu3xT7DP0F30o9yJQDwTTMfw88DGfJLYm",
+      "name": "관리자",
+      "id": 105
     }
   ],
   "userSetting": [
